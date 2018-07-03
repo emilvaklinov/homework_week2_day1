@@ -9,7 +9,7 @@ def initialize(name, players, coach, points)
   @name = name
   @players = [players]
   @coach = coach
-  @points = points
+  @points = 0
 
   end
 
